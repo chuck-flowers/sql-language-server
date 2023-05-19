@@ -41,11 +41,13 @@
   "dependencies": {
     "@google-cloud/bigquery": "^5.9.0",
     "@joe-re/sql-parser": "^1.5.1",
+    "@types/mssql": "^8.1.2",
     "@types/pg": "^8.6.6",
     "@types/yargs": "^17.0.8",
     "cardinal": "^2.1.1",
     "jest": "^26.0.1",
     "log4js": "^6.2.1",
+    "mssql": "^9.1.1",
     "mysql2": "^2.3.0",
     "node-ssh-forward": "^0.6.3",
     "pg": "^8.9.0",
